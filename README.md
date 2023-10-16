@@ -1,4 +1,4 @@
-# This is a fork of [Marie-js](https://github.com/marie-js/mariejs) that is bug-for-bug compatible.
+# This is a fork of [Mariejs](https://github.com/MARIE-js/MARIE.js) that is bug-for-bug compatible.
 
 # MARIE.js
 
