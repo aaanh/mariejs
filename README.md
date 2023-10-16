@@ -1,3 +1,5 @@
+# This is a fork of [Mariejs](https://github.com/mariejs/mariejs) that is bug-for-bug compatible.
+
 # MARIE.js
 
 [![Build Status](https://travis-ci.org/MARIE-js/MARIE.js.svg?branch=master)](https://travis-ci.org/MARIE-js/MARIE.js) [![Gitter chat](https://badges.gitter.im/MARIE-js/gitter.png)](https://gitter.im/MARIE-js/Lobby) [![npm version](https://badge.fury.io/js/npm.svg)](https://badge.fury.io/js/npm)
